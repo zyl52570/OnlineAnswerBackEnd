@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.onlineanswer.hc.answer.dao.ExaminfomanageDao">
+    <select id="getExaminfoList" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.Examinfo">
+
+        select
+        ei.id,
+        ei.examtypeid,
+        ei.name,
+        ei.a,
+        ei.b,
+        ei.c,
+        ei.d,
+        ei.correctanswer,
+        ei.explaininfo,
+        ei.createtime,
+        et.name as examtypename
+        from
+        examinfo ei inner join examtype et on ei.examtypeid=et.id
+        where 1=1
+        <if test="examtypeid != null and examtypeid != '' and examtypeid != -1">
+            AND ei.examtypeid = #{examtypeid}
+        </if>
+        <if test="name != null and name != ''">
+            AND ei.name LIKE CONCAT('%',#{name},'%')
+        </if>
+    </select>
+
+</mapper>

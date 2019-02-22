@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.onlineanswer.hc.answer.dao.PostmanageDao">
+    <select id="getPostmanageList" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.CampusPostVo">
+
+        SELECT
+        p.id AS id,
+        p.campusid AS campusid,
+        p.postname AS postname,
+        c.NAME AS campusname
+        FROM
+        postmanage p
+        INNER JOIN campusmanage c ON p.campusid = c.id
+        where 1=1
+        <if test="campusid != null and campusid != '' and campusid != -1">
+            AND p.campusid = #{campusid}
+        </if>
+        <if test="postname != null and postname != ''">
+            AND p.postname LIKE CONCAT('%',#{postname},'%')
+        </if>
+    </select>
+
+</mapper>

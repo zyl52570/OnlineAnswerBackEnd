@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.onlineanswer.hc.answer.dao.StudentsAnswerDao">
+    <select id="getStudentsAnswerList" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.Studentsanswer">
+
+        SELECT
+        s.id,
+        s.examtypeid,
+        s.studentid,
+        s.grade,
+        s.createtime,
+        e.name as examinfoname
+        from
+        studentsanswer s INNER JOIN examtype e on s.examtypeid=e.id
+        where 1=1
+        <if test="examtypeid != null and examtypeid != '' and examtypeid != -1">
+            AND s.examtypeid = #{examtypeid}
+        </if>
+        <if test="studentid != null and studentid != ''">
+            AND s.studentid = #{studentid}
+        </if>
+        order by createtime desc
+    </select>
+
+</mapper>

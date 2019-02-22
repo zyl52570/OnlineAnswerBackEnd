@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.onlineanswer.hc.answer.dao.SysuserDao">
+    <select id="getSysuserList" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.Sysuser">
+
+        select
+        s.id,
+        s.campusid,
+        s.postid,
+        s.name,
+        s.sex,
+        s.phone,
+        s.login,
+        s.pwd,
+        c.name as campusname,
+        p.postname
+        from sysuser s
+        inner join campusmanage c on s.campusid=c.id
+        inner join postmanage p on s.postid=p.id
+        where 1=1
+        <if test="campusid != null and campusid != '' and campusid != -1">
+            AND s.campusid = #{campusid}
+        </if>
+        <if test="postid != null and postid != '' and postid != -1">
+            AND s.postid = #{postid}
+        </if>
+        <if test="name != null and name != ''">
+            AND s.name LIKE CONCAT('%',#{name},'%')
+        </if>
+        <if test="phone != null and phone != ''">
+            AND s.phone LIKE CONCAT('%',#{phone},'%')
+        </if>
+
+    </select>
+
+</mapper>

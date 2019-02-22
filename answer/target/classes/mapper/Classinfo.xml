@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.onlineanswer.hc.answer.dao.ClassmanageDao">
+    <select id="getClassmanageList" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.Classinfo">
+
+        SELECT
+        ci.id,
+        ci.campusid,
+        ci.name as name,
+        ci.classtime,
+        ci.lecturer,
+        ci.teacher,
+        cm.name as campusname,
+        ci.createtime
+        FROM
+        classinfo ci
+        INNER JOIN campusmanage cm ON ci.campusid = cm.id
+        where 1=1
+        <if test="campusid != null and campusid != '' and campusid != -1">
+            AND ci.campusid = #{campusid}
+        </if>
+        <if test="name != null and name != ''">
+            AND ci.name LIKE CONCAT('%',#{name},'%')
+        </if>
+        <if test="classtime != null and classtime != ''">
+            AND  ci.classtime = #{classtime}
+        </if>
+    </select>
+
+</mapper>

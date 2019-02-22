@@ -1,0 +1,53 @@
+server:
+  port: 9527
+spring:
+  resources:
+    static-locations: classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/,classpath:/test/,classpath:/templates/,file:${web.upload-path},file:${web.file-path}
+  thymeleaf:
+    cache: false
+    mode: HTML5
+    prefix: classpath:/templates/
+    encoding: UTF-8
+    suffix: .html
+    mvc:
+      static-path-pattern: /**
+      view:
+        prefix: /WEB-INF/views/
+        suffix: .jsp
+  datasource:
+    url: jdbc:mysql://localhost:3306/onlineanswer?useUnicode=true&characterEncoding=UTF-8&useSSL=true
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    maxActive: 20
+    initialSize: 1
+    maxWait: 60000
+    minIdle: 1
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: select 'x'
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+    maxOpenPreparedStatements: 20
+    jackson:
+      date-format: yyyy-MM-dd HH:mm:ss
+      time-zone: GMT+8
+mybatis-plus:
+  mapper-locations: classpath:/mapper/*.xml
+  global-config:
+    id-type: 0
+    field-strategy: 1
+    db-column-underline: true
+    refresh-mapper: true
+    logic-delete-value: 1
+    logic-not-delete-value: 0
+    sql-injector: com.baomidou.mybatisplus.mapper.LogicSqlInjector
+  configuration:
+    map-underscore-to-camel-case: true
+    cache-enabled: true
+logging:
+  level:
+    org.springframework.boot.autoconfigure: ERROR

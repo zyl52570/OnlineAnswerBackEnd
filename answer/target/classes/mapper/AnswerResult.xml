@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.onlineanswer.hc.answer.dao.AnswerResultDao">
+    <select id="getAnswerresultList" parameterType="com.onlineanswer.hc.answer.entity.Answerresult"
+            resultType="com.onlineanswer.hc.answer.entity.Answerresult">
+
+        SELECT
+			ar.id,
+			ar.studentid,
+			ar.ssid,
+			ar.examid,
+			ar.a,
+			ar.b,
+			ar.c,
+			ar.d,
+			ar.studentanswer,
+			ar.correctanswer,
+			ar.istrue,
+			ar.createtime,
+
+		    ei.name as examname,
+		    ei.a as exama,
+		    ei.b as examb,
+		    ei.c as examc,
+		    ei.d as examd,
+		    ei.correctanswer as examcorrectanswer,
+		    ei.explaininfo as examexplaininfo
+		FROM
+			answerresult  ar INNER JOIN examinfo ei on ar.examid=ei.id
+		where ar.ssid=#{ssid} and ar.studentid=#{studentid}
+
+    </select>
+
+</mapper>

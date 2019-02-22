@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18168a14-4ad7-4f76-8eb9-0487123690e0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/answer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1791965670">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.71" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="249" />
+          <entry key="xml" value="33" />
+          <entry key="yml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="249" />
+          <entry key="XML" value="33" />
+          <entry key="YAML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3755" />
+          <entry key="xml" value="176" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3755" />
+          <entry key="SQL" value="15" />
+          <entry key="XML" value="161" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OnLineAnswer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/AnswerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/AnswerResultController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1045">
+              <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentAnswerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="60" column="15" lean-forward="true" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExaminfomanageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/CampusmanageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/SysuserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-656">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>postmanageService</find>
+      <find>CampusPostVo</find>
+      <find>classmanageService</find>
+      <find>Classmanage</find>
+      <find>campusmanage</find>
+      <find>Student</find>
+      <find>campusPostVo</find>
+      <find>Campusmanage</find>
+      <find>StudentsanswerService</find>
+      <find>examid</find>
+      <find>examtypeid</find>
+      <find>exam</find>
+      <find>request</find>
+      <find>文件上传路径是</find>
+      <find>getExaminfoByTypeId</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>classmanageService</replace>
+      <replace>Classinfo</replace>
+      <replace>studentService</replace>
+      <replace>Student</replace>
+      <replace>examtype</replace>
+      <replace>Sysuser</replace>
+      <replace>Examinfo</replace>
+      <replace>studentsAnswerService</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/PostmanageDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/CampusPostVo.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/CampusPostVo.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ClassmanageService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ClassmanageDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ClassmanageServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Classinfo.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Classinfo.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Student.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Student.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ExamtypeDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ExamtypeServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/PostmanageController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Examtype.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Sysuser.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/SysuserDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/SysuserServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Sysuser.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ExamtypeService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/SysuserService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/PostmanageService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExamtypeController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Examinfo.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ExaminfomanageDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ExaminfomanageService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ExaminfomanageServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Examinfo.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ClassmanageController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/SysuserController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentsAnswerService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentAnswerController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentsAnswerServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentsAnswerDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/AnswerResultDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/AnswerResultService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/AnswerResultServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/AnswerResult.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/utils/IDUtil.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Studentsanswer.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/ExaminfoVo.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Answerresult.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/StudentAnswer.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/AnswerResultController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExaminfomanageController.java" />
+        <option value="$PROJECT_DIR$/answer/pom.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven\MavenRepository\maven_jar" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="236" />
+    <option name="y" value="18" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hc" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hc" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="getExaminfoById&#9;PSI&#9;JAVA://com.onlineanswer.hc.answer.controller.ExaminfomanageController#getExaminfoById" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550127907090" />
+    <property name="last_opened_file_path" value="E:/eclipseProject/ssm_ultimate" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideProject\OnLineAnswer\answer\src\main\resources\mapper" />
+      <recent name="E:\ideProject\OnLineAnswer\answer\src\main\resources" />
+      <recent name="E:\ideProject\OnLineAnswer\answer\src\main\java\com\onlineanswer\hc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.onlineanswer.hc.answer.entity" />
+      <recent name="com.onlineanswer.hc.answer.controller" />
+      <recent name="com.onlineanswer.hc.answer.service.imp" />
+      <recent name="com.onlineanswer.hc.answer.service" />
+      <recent name="com.onlineanswer.hc.answer.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideProject\OnLineAnswer\answer\src\main\java\com\onlineanswer\hc\excelFile" />
+      <recent name="E:\ideProject\OnLineAnswer\answer\src\main\java\com\onlineanswer\hc\answer\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AnswerApplication">
+    <configuration name="IDUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.onlineanswer.hc.utils.IDUtil" />
+      <module name="answer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.onlineanswer.hc.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnswerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="answer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.onlineanswer.hc.AnswerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AnswerApplication" />
+      <item itemvalue="Application.IDUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IDUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18168a14-4ad7-4f76-8eb9-0487123690e0" name="Default Changelist" comment="" />
+      <created>1547087233466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547087233466</updated>
+      <workItem from="1547087236842" duration="6778000" />
+      <workItem from="1547168365841" duration="10580000" />
+      <workItem from="1547255310467" duration="13977000" />
+      <workItem from="1547428514587" duration="11361000" />
+      <workItem from="1547516589110" duration="7653000" />
+      <workItem from="1547600683161" duration="15199000" />
+      <workItem from="1547686683151" duration="5816000" />
+      <workItem from="1547772555253" duration="1046000" />
+      <workItem from="1547774785140" duration="213000" />
+      <workItem from="1547792573427" duration="847000" />
+      <workItem from="1547801327385" duration="826000" />
+      <workItem from="1547864770590" duration="4413000" />
+      <workItem from="1548032082755" duration="9127000" />
+      <workItem from="1548119860664" duration="9607000" />
+      <workItem from="1548204302578" duration="20482000" />
+      <workItem from="1548291704338" duration="14123000" />
+      <workItem from="1548378357277" duration="7316000" />
+      <workItem from="1548468414756" duration="646000" />
+      <workItem from="1550021346358" duration="4854000" />
+      <workItem from="1550105941330" duration="809000" />
+      <workItem from="1550127019972" duration="891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146564000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.16490166" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.57213116" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32889733" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/CampusmanageDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/PostmanageServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ExamtypeServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/PostmanageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ClassmanageDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="87" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ExaminfomanageDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/AnswerResultDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="70" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/AnswerResultServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Examinfo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="22" selection-start-line="9" selection-start-column="8" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ClassmanageServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/utils/IDUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentsAnswerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentsAnswerServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/ExaminfoVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExamtypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Studentsanswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentsAnswerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="70" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/utils/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Answerresult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="77" column="30" lean-forward="true" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="250" selection-start-line="250" selection-end-line="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Examinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="226" column="58" selection-start-line="226" selection-start-column="58" selection-end-line="226" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/xss/HtmlFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517">
+          <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/xss/SQLFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/xss/XssHttpServletRequestWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/xss/XssFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#uploadExcelToExamInfo#0;class#UploadController#0" />
+            <element signature="method#uploadExcelToExamInfo#0;class#UploadController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="21" column="77" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/AnswerResult.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/CampusPostVo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/StudentAnswer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/AnswerResultService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="66" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/CampusmanageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ClassmanageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/AnswerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/AnswerResultController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/SysuserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-656">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentAnswerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="60" column="15" lean-forward="true" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExaminfomanageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/CampusmanageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OnLineAnswer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
