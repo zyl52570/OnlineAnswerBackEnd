@@ -47,7 +47,7 @@ public class UploadController {
     public Map<String, Object> uploadExcelToExamInfoByIO(@RequestParam("file") MultipartFile file,
                                                      HttpServletRequest request, HttpServletResponse response) throws Exception {
         response.setHeader("Access-Control-Allow-Origin", "*");
-
+        //git测试
         List<Examinfo> list = new ArrayList<Examinfo>();       //正常可插入数据
         List<Examinfo> repeatList = new ArrayList<Examinfo>();; //数据库中重复数据
         try {
