@@ -14,4 +14,6 @@ import java.util.Map;
 public interface StudentDao extends BaseMapper<Student> {
     //多表联查方式
     List<Student> getStudentList(Page<Student> page, Map<String, Object> params);
+
+    List<Student> getStudentListByClassId(Map<String, Object> params);
 }

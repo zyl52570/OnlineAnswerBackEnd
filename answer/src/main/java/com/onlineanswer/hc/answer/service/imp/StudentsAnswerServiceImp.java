@@ -5,6 +5,7 @@ import com.baomidou.mybatisplus.plugins.Page;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 
 import com.onlineanswer.hc.answer.dao.StudentsAnswerDao;
+import com.onlineanswer.hc.answer.entity.Student;
 import com.onlineanswer.hc.answer.entity.Studentsanswer;
 import com.onlineanswer.hc.answer.service.StudentsAnswerService;
 import com.onlineanswer.hc.utils.PageUtils;
@@ -22,5 +23,10 @@ public class StudentsAnswerServiceImp extends ServiceImpl<StudentsAnswerDao, Stu
         List<Studentsanswer> list=baseMapper.getStudentsAnswerList(page,params);
         page.setRecords(list);
         return new PageUtils(page);
+    }
+
+    @Override
+    public List<Studentsanswer> getStatisticsEchart(Map<String, Object> map) {
+        return baseMapper.getStatisticsEchart(map);
     }
 }

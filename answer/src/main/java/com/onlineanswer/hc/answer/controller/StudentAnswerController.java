@@ -61,4 +61,12 @@ public class StudentAnswerController {
         return new R(0,"success",pu.getTotalCount(),pu.getList());
     }
 
+    //查询指定学员考试成绩
+    @PostMapping("/getStatisticsEchart")
+    public R getStatisticsEchart(@RequestParam Map<String, Object> map, HttpServletResponse response){
+        System.out.println(map);
+        response.setHeader("Access-Control-Allow-Origin", "*");
+        List<Studentsanswer> pu=studentsAnswerService.getStatisticsEchart(map);
+        return new R(0,"success",pu.size(),pu);
+    }
 }

@@ -5,6 +5,7 @@ import com.onlineanswer.hc.answer.entity.Classinfo;
 import com.onlineanswer.hc.answer.entity.Student;
 import com.onlineanswer.hc.utils.PageUtils;
 
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -12,4 +13,6 @@ import java.util.Map;
  */
 public interface StudentService extends IService<Student> {
     PageUtils getStudentList(Map<String, Object> params);
+
+    List<Student> getStudentListByClassId(Map<String, Object> params);
 }

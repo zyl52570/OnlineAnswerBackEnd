@@ -52,7 +52,7 @@ public class AnswerResultController {
 
         String[] studentanswer = params.get("studentanswer").toString().split(",");
         Double trueNum = getTrueNum(examid,studentanswer,correctanswer);
-        Integer grade=(int)((trueNum/examid.length)*100);//计算成绩百分比
+        Integer grade=(int)((trueNum/examid.length)*100);//计算成绩百 分比
 
         Date createtime=new Date();
 

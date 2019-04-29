@@ -24,4 +24,9 @@ public class StudentServiceImp extends ServiceImpl<StudentDao, Student> implemen
         page.setRecords(list);
         return new PageUtils(page);
     }
+
+    @Override
+    public List<Student> getStudentListByClassId(Map<String, Object> params) {
+        return baseMapper.getStudentListByClassId(params);
+    }
 }

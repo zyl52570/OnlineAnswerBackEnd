@@ -25,4 +25,18 @@
         order by createtime desc
     </select>
 
+    <select id="getStatisticsEchart" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.Studentsanswer">
+
+        SELECT
+            et.id,
+            et.name as examinfoname,
+            (select examtypeid from studentsanswer where studentid=#{studentid} and examtypeid=et.id ORDER BY createtime desc LIMIT 0,1)as examtypeid,
+            (select studentid from studentsanswer where studentid=#{studentid} and examtypeid=et.id  ORDER BY createtime desc LIMIT 0,1)as studentid,
+            (SELECT IFNULL((select grade from studentsanswer where studentid=#{studentid} and examtypeid=et.id  ORDER BY createtime desc LIMIT 0,1),0)) as grade,
+            (select createtime from studentsanswer where studentid=#{studentid} and examtypeid=et.id  ORDER BY createtime desc LIMIT 0,1)as createtime
+        from
+         examtype et
+    </select>
+
 </mapper>

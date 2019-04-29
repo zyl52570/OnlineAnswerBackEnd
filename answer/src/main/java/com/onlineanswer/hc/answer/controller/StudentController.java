@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpServletResponse;
+import java.util.List;
 import java.util.Map;
 
 @Slf4j
@@ -20,13 +21,21 @@ public class StudentController {
     @Autowired
     private StudentService studentService;
 
-    //分页查询
+    //条件查询-分页
     @PostMapping("/getStudentList")
     public R getStudentList(@RequestParam Map<String, Object> map, HttpServletResponse response){
         response.setHeader("Access-Control-Allow-Origin", "*");
         PageUtils pu=studentService.getStudentList(map);
         log.info("数据是",pu.getList());
         return new R(0,"success",pu.getTotalCount(),pu.getList());
+    }
+
+    //根据班级信息查询班级内所有学生信息
+    @PostMapping("/getStudentListByClassId")
+    public R getStudentListByClassId(@RequestParam Map<String, Object> map, HttpServletResponse response){
+        response.setHeader("Access-Control-Allow-Origin", "*");
+        List<Student> list=studentService.getStudentListByClassId(map);
+        return new R(0,"success",list.size(),list);
     }
 
     //添加
@@ -78,5 +87,7 @@ public class StudentController {
                         .eq("login",student.getLogin())
                         .eq("pwd",student.getPwd()));
     }
+
+
 
 }

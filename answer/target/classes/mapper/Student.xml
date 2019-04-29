@@ -51,4 +51,46 @@
 
     </select>
 
+    <select id="getStudentListByClassId" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.Student">
+
+        SELECT
+        s.id,
+        s.campusid,
+        s.classinfoid,
+        s.stuname,
+        s.sex,
+        s.phone,
+        s.qq,
+        s.school,
+        s.profession,
+        s.education,
+        s.nature,
+        s.graduationtime,
+        s.idnumber,
+        s.parentsname,
+        s.relation,
+        s.parentstel,
+        s.address,
+        s.login,
+        s.pwd,
+        s.lecturer,
+        s.teacher,
+        s.createtime,
+        c.name as campusname,
+        i.name as classinfoname
+        FROM
+        student s
+        INNER JOIN campusmanage c ON s.campusid = c.id
+        INNER JOIN classinfo i ON s.classinfoid = i.id
+        where 1=1
+        <if test="campusid != null and campusid != '' and campusid != -1">
+            AND s.campusid = #{campusid}
+        </if>
+        <if test="classinfoid != null and classinfoid != '' and classinfoid != -1">
+            AND s.classinfoid = #{classinfoid}
+        </if>
+
+    </select>
+
 </mapper>
