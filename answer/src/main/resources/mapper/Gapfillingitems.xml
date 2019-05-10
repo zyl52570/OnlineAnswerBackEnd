@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.onlineanswer.hc.answer.dao.GapfillingitemsDao">
+    <select id="getGapfillingitemsList" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.Gapfillingitems">
+
+        SELECT
+        g.id,
+        g.examtypeid,
+        g.description,
+        g.result,
+        et.NAME AS examtypename
+        FROM
+        gapfillingitems g
+        INNER JOIN examtype et ON g.examtypeid = et.id
+        where 1=1
+        <if test = "examtypeid != null and examtypeid != '' and examtypeid != -1" >
+            AND g.examtypeid = #{examtypeid}
+        </if >
+        <if test = "description != null and description != ''" >
+            AND g.description LIKE CONCAT('%',#{description},'%')
+        </if>
+    </select>
+
+</mapper>

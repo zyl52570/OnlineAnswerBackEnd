@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.onlineanswer.hc.answer.dao.ProgramitemsDao">
+    <select id="getProgramitemsList" parameterType="map"
+            resultType="com.onlineanswer.hc.answer.entity.Programitems">
+
+        SELECT
+        p.id,
+        p.examtypeid,
+        p.description,
+        p.filepath,
+        et.NAME AS examtypename
+        FROM
+        programitems p
+        INNER JOIN examtype et ON p.examtypeid = et.id
+        where 1=1
+        <if test = "examtypeid != null and examtypeid != '' and examtypeid != -1" >
+            AND p.examtypeid = #{examtypeid}
+        </if >
+        <if test = "description != null and description != ''" >
+            AND p.description LIKE CONCAT('%',#{description},'%')
+        </if>
+    </select>
+
+</mapper>
