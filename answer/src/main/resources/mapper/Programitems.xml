@@ -11,6 +11,7 @@
         p.examtypeid,
         p.description,
         p.filepath,
+        p.originalpath,
         et.NAME AS examtypename
         FROM
         programitems p

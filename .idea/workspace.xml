@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18168a14-4ad7-4f76-8eb9-0487123690e0" name="Default Changelist" comment="这是git测试">
+    <list default="true" id="18168a14-4ad7-4f76-8eb9-0487123690e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/AnswerResultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/AnswerResultController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentAnswerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentAnswerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentsAnswerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentsAnswerDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentsAnswerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentsAnswerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentsAnswerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentsAnswerServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/resources/mapper/Student.xml" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/resources/mapper/Student.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/src/main/resources/mapper/StudentAnswer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/resources/mapper/StudentAnswer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/controller/StudentAnswerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/controller/StudentAnswerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/controller/StudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/dao/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/dao/StudentDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/dao/StudentsAnswerDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/dao/StudentsAnswerDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/service/StudentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/service/StudentsAnswerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/service/StudentsAnswerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/service/imp/StudentServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/service/imp/StudentServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/service/imp/StudentsAnswerServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/service/imp/StudentsAnswerServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/mapper/Student.xml" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/mapper/Student.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer/target/classes/mapper/StudentAnswer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/mapper/StudentAnswer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Programitems.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Programitems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/resources/mapper/Programitems.xml" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/resources/mapper/Programitems.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/controller/UploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/answer/target/classes/com/onlineanswer/hc/answer/controller/UploadController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,7 +35,7 @@
     <session id="1791965670">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="44" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.101" value="1" />
           <entry key="project.open.time.121" value="1" />
@@ -69,9 +52,10 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="3" />
-          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.49" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.58" value="1" />
@@ -82,40 +66,45 @@
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.71" value="2" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.83" value="1" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.open.time.83" value="2" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="java" value="280" />
-          <entry key="xml" value="40" />
+          <entry key="class" value="8" />
+          <entry key="java" value="375" />
+          <entry key="xml" value="50" />
           <entry key="yml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="280" />
-          <entry key="XML" value="40" />
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="375" />
+          <entry key="XML" value="50" />
           <entry key="YAML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4049" />
-          <entry key="txt" value="7" />
-          <entry key="xml" value="182" />
+          <entry key="dummy" value="11" />
+          <entry key="java" value="4478" />
+          <entry key="txt" value="45" />
+          <entry key="xml" value="297" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4049" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="SQL" value="15" />
-          <entry key="XML" value="167" />
+          <entry key="JAVA" value="4478" />
+          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="SQL" value="30" />
+          <entry key="XML" value="267" />
         </counts>
       </usages-collector>
     </session>
@@ -126,98 +115,62 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExamtypeController.java">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
-              <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentAnswerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="64" column="38" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/StudentAnswer.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="40" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ClassmanageService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/SysuserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Sysuser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/AnswerResultController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="180">
+              <caret line="193" column="32" lean-forward="true" selection-start-line="193" selection-start-column="32" selection-end-line="193" selection-end-column="32" />
               <folding>
-                <element signature="method#getAnswerresultList#0;class#AnswerResultController#0" />
+                <element signature="method#uploadExcelToExamInfo#0;class#UploadController#0" />
+                <element signature="method#addExamInfoForExcel#0;class#UploadController#0" />
+                <element signature="docComment;method#getValue#0;class#UploadController#0" />
+                <element signature="method#getValue#0;class#UploadController#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExaminfomanageController.java">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Programitems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+            <state relative-caret-position="155">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/AnswerApplication.java">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Programitems.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="228">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ProgramitemsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
               <folding>
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Classinfo.xml">
+        <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ShortansweritemsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="779">
+              <caret line="53" column="29" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -252,6 +205,10 @@
       <find>getStudentList</find>
       <find>getClassmanageList</find>
       <find>getStatisticsEchart</find>
+      <find>getExaminfoList</find>
+      <find>Gapfillingitems</find>
+      <find>Programitems</find>
+      <find>Shortansweritems</find>
     </findStrings>
     <replaceStrings>
       <replace>classmanageService</replace>
@@ -262,6 +219,9 @@
       <replace>Sysuser</replace>
       <replace>Examinfo</replace>
       <replace>studentsAnswerService</replace>
+      <replace>Programitems</replace>
+      <replace>Shortansweritems</replace>
+      <replace>Trueorfalseitems</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -270,37 +230,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/PostmanageDao.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/CampusPostVo.xml" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/CampusPostVo.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ClassmanageService.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ClassmanageDao.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ClassmanageServiceImp.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Classinfo.xml" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Classinfo.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Student.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ExamtypeDao.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ExamtypeServiceImp.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/PostmanageController.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Examtype.xml" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Sysuser.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/SysuserDao.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/SysuserServiceImp.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Sysuser.xml" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ExamtypeService.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/SysuserService.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/PostmanageService.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExamtypeController.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Examinfo.xml" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ExaminfomanageDao.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ExaminfomanageService.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ExaminfomanageServiceImp.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Examinfo.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ClassmanageController.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/SysuserController.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/AnswerResultDao.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/AnswerResultService.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/AnswerResultServiceImp.java" />
         <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/AnswerResult.xml" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/utils/IDUtil.java" />
@@ -309,18 +238,49 @@
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Answerresult.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExaminfomanageController.java" />
         <option value="$PROJECT_DIR$/answer/pom.xml" />
-        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentsAnswerDao.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentsAnswerService.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentsAnswerServiceImp.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentAnswerController.java" />
-        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/StudentAnswer.xml" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentDao.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentService.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentController.java" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentServiceImp.java" />
         <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Student.xml" />
         <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/AnswerResultController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/StudentAnswer.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/gapfillingitems.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/programitems.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/shortansweritems.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/trueorfalseitems.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/Examinfomanage1Dao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Gapfillingitems.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Gapfillingitems.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Shortansweritems.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Trueorfalseitems.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/GapfillingitemsService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/GapfillingitemsController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/GapfillingitemsDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/GapfillingitemsServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ProgramitemsService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ProgramitemsServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ProgramitemsController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ProgramitemsDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ShortansweritemsService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ShortansweritemsServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ShortansweritemsDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ShortansweritemsController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Shortansweritems.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/TrueoffalseitemsDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/TrueoffalseitemsService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/TrueorfalseitemsService.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/TrueorfalseitemsDao.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/TrueorfalseitemsServiceImp.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Trueorfalseitems.xml" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/TrueorfalseitemsController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Programitems.java" />
+        <option value="$PROJECT_DIR$/answer/src/main/resources/mapper/Programitems.xml" />
       </list>
     </option>
   </component>
@@ -355,10 +315,13 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="240" />
+    <option name="x" value="374" />
+    <option name="y" value="58" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -426,7 +389,34 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hc" type="462c0819:PsiDirectoryNode" />
               <item name="answer" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hc" type="462c0819:PsiDirectoryNode" />
+              <item name="excelFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnLineAnswer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnLineAnswer" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -437,11 +427,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="getExaminfoById&#9;PSI&#9;JAVA://com.onlineanswer.hc.answer.controller.ExaminfomanageController#getExaminfoById" />
+    <property name="SearchEverywhereHistoryKey" value="uploadExcelToExamInfo&#9;PSI&#9;JAVA://com.onlineanswer.hc.answer.controller.UploadController#uploadExcelToExamInfo&#10;getStatisticsEchart&#9;PSI&#9;JAVA://com.onlineanswer.hc.answer.dao.StudentsAnswerDao#getStatisticsEchart&#10;getExaminfoById&#9;PSI&#9;JAVA://com.onlineanswer.hc.answer.controller.ExaminfomanageController#getExaminfoById" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554194605576" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558000683841" />
+    <property name="last_opened_file_path" value="E:/eclipseProject/layui-admin-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -456,11 +446,11 @@
       <recent name="E:\ideProject\OnLineAnswer\answer\src\main\java\com\onlineanswer\hc" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.onlineanswer.hc.answer.entity" />
       <recent name="com.onlineanswer.hc.answer.controller" />
       <recent name="com.onlineanswer.hc.answer.service.imp" />
       <recent name="com.onlineanswer.hc.answer.service" />
       <recent name="com.onlineanswer.hc.answer.dao" />
+      <recent name="com.onlineanswer.hc.answer.entity" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\ideProject\OnLineAnswer\answer\src\main\java\com\onlineanswer\hc\excelFile" />
@@ -556,7 +546,15 @@
       <workItem from="1554085079882" duration="945000" />
       <workItem from="1554193701600" duration="636000" />
       <workItem from="1556163295607" duration="266000" />
-      <workItem from="1556499978160" duration="1165000" />
+      <workItem from="1556499978160" duration="5348000" />
+      <workItem from="1556586225150" duration="2188000" />
+      <workItem from="1557050691783" duration="697000" />
+      <workItem from="1557134461010" duration="1633000" />
+      <workItem from="1557471689637" duration="5339000" />
+      <workItem from="1557737631782" duration="2759000" />
+      <workItem from="1557974451948" duration="12169000" />
+      <workItem from="1558599053631" duration="1187000" />
+      <workItem from="1558679403169" duration="2805000" />
     </task>
     <task id="LOCAL-00001" summary="这是git测试">
       <created>1551147814535</created>
@@ -565,11 +563,32 @@
       <option name="project" value="LOCAL" />
       <updated>1551147814536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="在线答题系统新增学员成绩统计">
+      <created>1556503659373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556503659373</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lishi">
+      <created>1557473328166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557473328166</updated>
+    </task>
+    <task id="LOCAL-00004" summary="简答题，程序题后台管理">
+      <created>1557479395094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557479395094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176278000" />
+    <option name="totallyTimeSpent" value="209238000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -583,8 +602,8 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30559757" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29954615" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -592,9 +611,9 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.49917898" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.57213116" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.43513957" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42364532" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32840723" />
@@ -633,16 +652,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是git测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是git测试" />
+    <MESSAGE value="在线答题系统新增学员成绩统计" />
+    <MESSAGE value="lishi" />
+    <MESSAGE value="简答题，程序题后台管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="简答题，程序题后台管理" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java</url>
-          <line>127</line>
+          <url>jar://F:/Maven/MavenRepository/maven_jar/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/usermodel/HSSFSheet.class</url>
+          <line>277</line>
           <properties />
-          <option name="timeStamp" value="48" />
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -655,320 +677,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/ExaminfoVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="277" selection-start-line="277" selection-end-line="277" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="250" selection-start-line="250" selection-end-line="250" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/NullPointerException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Maven/MavenRepository/maven_jar/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSON.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="136" selection-start-line="136" selection-end-line="136" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Examinfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        <state relative-caret-position="-1797">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/answer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="226" column="58" selection-start-line="226" selection-start-column="58" selection-end-line="226" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/xss/SQLFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/xss/XssHttpServletRequestWrapper.java">
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ExamtypeDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/xss/XssFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="25" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="21" column="77" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/AnswerResult.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/CampusPostVo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/CampusmanageService.java">
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ExamtypeService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/CampusmanageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="59" column="27" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/xss/HtmlFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="68" column="69" selection-start-line="68" selection-start-column="69" selection-end-line="68" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/utils/DateUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Maven/MavenRepository/maven_jar/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/AnswerResultDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/AnswerResultService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="13" column="66" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/AnswerResultServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Maven/MavenRepository/maven_jar/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9-sources.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/utils/MybatisPlusConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#uploadExcelToExamInfo#0;class#UploadController#0" />
-            <element signature="method#uploadExcelToExamInfo#0;class#UploadController#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Answerresult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentsAnswerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentsAnswerDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Studentsanswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentsAnswerServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/StudentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/StudentServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Student.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1805">
-          <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ClassmanageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExamtypeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/StudentAnswerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="64" column="38" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/StudentAnswer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="40" />
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -979,52 +705,354 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/SysuserController.java">
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ExaminfomanageDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="15" />
+        <state relative-caret-position="133">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Sysuser.java">
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ExaminfomanageService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        <state relative-caret-position="76">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/AnswerResultController.java">
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/GapfillingitemsServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="method#getAnswerresultList#0;class#AnswerResultController#0" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ProgramitemsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ProgramitemsServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/PostmanageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/StudentsAnswerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/PostmanageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/GapfillingitemsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/GapfillingitemsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ProgramitemsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/ShortansweritemsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Shortansweritems.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/ShortansweritemsServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/ShortansweritemsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/dao/TrueorfalseitemsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/TrueorfalseitemsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/service/imp/TrueorfalseitemsServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Trueorfalseitems.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/GapfillingitemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ExaminfomanageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+        <state relative-caret-position="114">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Classinfo.xml">
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Gapfillingitems.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="165">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/AnswerApplication.java">
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13-sources.jar!/org/apache/catalina/core/ApplicationPart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="78">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13-sources.jar!/org/apache/tomcat/util/http/fileupload/disk/DiskFileItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13-sources.jar!/org/apache/tomcat/util/http/fileupload/ThresholdingOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13-sources.jar!/org/apache/tomcat/util/http/fileupload/DeferredFileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/multipart/support/StandardMultipartHttpServletRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="249" selection-start-line="249" selection-end-line="249" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/usermodel/HSSFWorkbook.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="589" selection-start-line="589" selection-end-line="589" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/usermodel/HSSFSheet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="276" selection-start-line="276" selection-end-line="276" />
           <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#9976#9977#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/ss/usermodel/CellType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/record/NumberRecord.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/org/apache/poi/poi/3.17/poi-3.17.jar!/org/apache/poi/hssf/usermodel/HSSFCell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="419" selection-start-line="419" selection-end-line="419" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3140" selection-start-line="3140" selection-end-line="3140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+          <folding>
+            <element signature="e#7531#7532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9-sources.jar!/com/baomidou/mybatisplus/service/IService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="325" column="12" selection-start-line="325" selection-start-column="12" selection-end-line="325" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Gapfillingitems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Maven/MavenRepository/maven_jar/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="578" selection-start-line="578" selection-end-line="578" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Trueorfalseitems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/TrueorfalseitemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Shortansweritems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="193" column="32" lean-forward="true" selection-start-line="193" selection-start-column="32" selection-end-line="193" selection-end-column="32" />
+          <folding>
+            <element signature="method#uploadExcelToExamInfo#0;class#UploadController#0" />
+            <element signature="method#addExamInfoForExcel#0;class#UploadController#0" />
+            <element signature="docComment;method#getValue#0;class#UploadController#0" />
+            <element signature="method#getValue#0;class#UploadController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ProgramitemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/controller/ShortansweritemsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/java/com/onlineanswer/hc/answer/entity/Programitems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answer/src/main/resources/mapper/Programitems.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>

@@ -19,11 +19,20 @@ public class Programitems implements Serializable {
     private Integer examtypeid;
     private String description;
     private String filepath;
+    private String originalpath;
 
     @TableField(exist = false)
     private String examtypename;
     public String getExamtypename() {
         return examtypename;
+    }
+
+    public String getOriginalpath() {
+        return originalpath;
+    }
+
+    public void setOriginalpath(String originalpath) {
+        this.originalpath = originalpath;
     }
 
     public void setExamtypename(String examtypename) {
