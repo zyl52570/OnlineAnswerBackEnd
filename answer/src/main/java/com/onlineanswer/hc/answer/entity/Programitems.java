@@ -18,26 +18,13 @@ public class Programitems implements Serializable {
     private Integer id;
     private Integer examtypeid;
     private String description;
-    private String filepath;
+    private String originalname;
     private String originalpath;
-
+    private String filename;
+    private String filepath;
     @TableField(exist = false)
     private String examtypename;
-    public String getExamtypename() {
-        return examtypename;
-    }
 
-    public String getOriginalpath() {
-        return originalpath;
-    }
-
-    public void setOriginalpath(String originalpath) {
-        this.originalpath = originalpath;
-    }
-
-    public void setExamtypename(String examtypename) {
-        this.examtypename = examtypename;
-    }
     public Integer getId() {
         return id;
     }
@@ -62,11 +49,43 @@ public class Programitems implements Serializable {
         this.description = description;
     }
 
+    public String getOriginalname() {
+        return originalname;
+    }
+
+    public void setOriginalname(String originalname) {
+        this.originalname = originalname;
+    }
+
+    public String getOriginalpath() {
+        return originalpath;
+    }
+
+    public void setOriginalpath(String originalpath) {
+        this.originalpath = originalpath;
+    }
+
+    public String getFilename() {
+        return filename;
+    }
+
+    public void setFilename(String filename) {
+        this.filename = filename;
+    }
+
     public String getFilepath() {
         return filepath;
     }
 
     public void setFilepath(String filepath) {
         this.filepath = filepath;
+    }
+
+    public String getExamtypename() {
+        return examtypename;
+    }
+
+    public void setExamtypename(String examtypename) {
+        this.examtypename = examtypename;
     }
 }

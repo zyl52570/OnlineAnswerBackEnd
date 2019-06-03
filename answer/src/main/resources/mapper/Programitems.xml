@@ -10,8 +10,10 @@
         p.id,
         p.examtypeid,
         p.description,
-        p.filepath,
+        p.originalname,
         p.originalpath,
+        p.filename,
+        p.filepath,
         et.NAME AS examtypename
         FROM
         programitems p

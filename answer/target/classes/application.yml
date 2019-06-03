@@ -1,8 +1,15 @@
+filepath:
+  staticAccessPath: /**
+  uploadPathToPdf: E:\ideProject\OnLineAnswer\answer\src\main\resources\static\pdf\upload\
+  uploadPathToZip: E:\ideProject\OnLineAnswer\answer\src\main\resources\static\zip\upload\
+  ss: D:\profile\pdf\upload\
 server:
   port: 9527
 spring:
+  mvc:
+    static-path-pattern: /**
   resources:
-    static-locations: classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/,classpath:/test/,classpath:/templates/,file:${web.upload-path},file:${web.file-path}
+    static-locations: classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/,classpath:/test/,classpath:/templates/,${filepath.uploadPathToPdf},${filepath.uploadPathToZip}
   thymeleaf:
     cache: false
     mode: HTML5
