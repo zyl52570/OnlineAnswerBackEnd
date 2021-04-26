@@ -20,7 +20,7 @@
         <!-- mysql驱动版本号 -->
         <mysql-driver.version>5.1.29</mysql-driver.version>
         <commons.lang.version>2.6</commons.lang.version>
-        <commons.io.version>2.5</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <commons.configuration.version>1.10</commons.configuration.version>
         <mybatisplus.version>2.1.9</mybatisplus.version>
         <mybatis.version>1.3.2</mybatis.version>
