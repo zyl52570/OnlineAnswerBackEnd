@@ -18,7 +18,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <!-- mysql驱动版本号 -->
-        <mysql-driver.version>5.1.29</mysql-driver.version>
+        <mysql-driver.version>8.0.28</mysql-driver.version>
         <commons.lang.version>2.6</commons.lang.version>
         <commons.io.version>2.5</commons.io.version>
         <commons.configuration.version>1.10</commons.configuration.version>
